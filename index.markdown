@@ -31,7 +31,7 @@ I am using vlfeat in my own projects. You can find functions utilizing SSE instr
 
 > "Intel® Math Kernel Library (Intel® MKL) 11.0 includes a wealth of routines to accelerate application performance and reduce development time."
 
-This one gives your amazing acceleration over your Intel processors. I hope you are working under Linux because Intel provides non-commercial licenses for MKL Linux.
+This one gives you amazing acceleration over Intel processors. I hope you are working under Linux because Intel provides non-commercial licenses for MKL Linux.
 
 <!--<hr/>-->
 
